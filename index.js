@@ -3710,6 +3710,10 @@ case 'sad':
 tujuh = fs.readFileSync('./bi/sad.mp3');
 client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
+case 'lookatme':
+tujuh = fs.readFileSync('./bi/lookatme.mp3');
+client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+break
 //say
 case 'say1':
 tujuh = fs.readFileSync('./assets/say1.mp4');
@@ -6166,8 +6170,7 @@ ${line}239 *${prefix}bitext (seu texto)*
 ${line}240 *${prefix}chlogo (número)*
 ${line}241 *${prefix}plogo2 (seu texto/tamanho)*
 ${line}
-${line} *TODAS AS APIS*
-${line} *DAQ TBM SAO DO TEVO*
+${line}
 ${line}
 ${line3} OUTROS /3 ${line4}
 ${line}
@@ -6236,16 +6239,17 @@ ${line}276 *${prefix}getvideo* (nome do vídeo)
 ${line}
 ${line3} 𝗗𝗢𝗡𝗢 ${line4}
 ${line}
-${line} *NOME: ⏤͟͟͞͞ঔৣ͜͡TEVØ⏤͟͟͞͞🔥*
-${line} *INSTA: Nao tenho
-${line} *WPP: wa.me/+555491057713*
-${line} *YOUTUBE: Em breve.....
+${line} *dono: ⏤͟͟͞͞ঔৣ͜͡TEVØ⏤͟͟͞͞🔥*
 ${line}
-${line}  *"Peita ou respeita 🐊🚩*
-${line}  *"kibadores, vão se fuder"*
+${line} *whatsapp: wa.me/+555491057713*
 ${line}
-${line} *${prefix}dono1* para mais info
 ${line}
+${line}  *"nois é o trem👺*
+${line}  *"pau no cu dos invejoso💀👽"*
+${line}
+${line}  *"parcerias"*
+${line}  *"𝐌𝐀𝐍𝐃𝐑𝐀𝐊"*
+${line}  
 ╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
 			        reply(menu)
 			        break

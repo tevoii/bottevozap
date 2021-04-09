@@ -29,6 +29,7 @@ _*COMANDOS:*_
 20• *${prefix}nike12*
 21• *${prefix}anotaaplaca*
 22• *${prefix}sad*
+23• *${prefix}lookatme*
 ──────────────────
 『 SUGESTÃO DE MSC 』
            
